@@ -15,15 +15,14 @@ page_url: /hello # only include this variable if you aren't building the page to
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
+github_username:  townerhale# your github username
+linkedin: townerhale
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button: https://www.linkedin.com/in/townerhale/
+about_button_label: linkedin # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -42,13 +41,11 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### why **software engineering**?  
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### **software engineering** has always been something that I've passionate about - from creating websites to studying machine learning. 
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
+**Who am I?** Just a recent graduate from the University of Hawaii at Manoa, who was born and raised in Honolulu, Hawaii. I've been developing websites for fun since high school, and if I'm not thinking of something to create, I'm usually out on the court playing basketball or in the water surfing. 
   
 
 The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
