@@ -10,6 +10,7 @@ background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
 
+
 # favicon
 favicon: /assets/ico/favicon.ico
 
@@ -35,7 +36,7 @@ portfolio_description: All projects found on github.com/townerhale. # a descript
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
 cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: townerhale@gmail.com # a link to an external website or to media
+cta_button: mailto:townerhale@gmail.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
