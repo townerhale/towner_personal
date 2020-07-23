@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Towner Hale's Website
-banner_subtitle: A place for you to check out his bio and work 
+banner_subtitle: A place for you to check out my bio and projects
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
