@@ -13,9 +13,9 @@ projects:
     items:
       - item: example3.html
         image: /images/pic_3.png
-      - item: example.html
-        image: /images/LA2.jpg
-      - item: example2.html
-        image: /images/LA3.jpg
+      - item: example4.html
+        image: /images/pic_4.png
+      - item: example5.html
+        image: /images/pic_5.jpg
       - item: example3.html
         image: /images/LA4.jpg
