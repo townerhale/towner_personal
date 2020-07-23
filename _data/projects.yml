@@ -17,5 +17,4 @@ projects:
         image: /images/pic_4.png
       - item: example5.html
         image: /images/pic_5.jpg
-      - item: example3.html
-        image: /images/LA4.jpg
+    
