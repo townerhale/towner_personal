@@ -7,7 +7,7 @@ work:
       - item: example.html
         image: /images/pic_1.jpeg # optionally, include the file path for an image for each item
       - item: example2.html
-        image: /images/pic_2.png
+        image: /images/pic-2.png
      
   - category: Los Angeles
     items:
