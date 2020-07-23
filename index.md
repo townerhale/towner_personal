@@ -28,8 +28,8 @@ about_button_label: linkedin # the label on the button
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
-portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+portfolio: projects # the heading for your portfolio and title of your YAML file
+portfolio_description: All projects found on github.com/townerhale.  # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
@@ -43,12 +43,7 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### why **software engineering**?  
 
-### **software engineering** has always been something that I've passionate about - from creating websites to studying machine learning. 
+### **software engineering** has always been something that I've passionate about - from creating websites to studying and implementing machine learning. 
   
 **Who am I?** Just a recent graduate from the University of Hawaii at Manoa, who was born and raised in Honolulu, Hawaii. I've been developing websites for fun since high school, and if I'm not thinking of something to create, I'm usually out on the court playing basketball or in the water surfing. 
   
-
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
