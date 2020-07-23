@@ -9,10 +9,10 @@ projects:
       - item: example2.html
         image: /images/pic-2.png
      
-  - category: Los Angeles
+  - category: Websites
     items:
-      - item: example.html
-        image: /images/LA1.jpg
+      - item: example3.html
+        image: /images/pic_3.png
       - item: example.html
         image: /images/LA2.jpg
       - item: example2.html
