@@ -18,6 +18,8 @@ projects:
       - item: example5.html
         image: /images/pic_5.png
       - item: example6.html
+      
+  - category: Games
        
 
     
