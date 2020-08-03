@@ -17,9 +17,11 @@ projects:
         image: /images/pic_4.png
       - item: example5.html
         image: /images/pic_5.png
-      - item: example6.html
+     
       
   - category: Games
+    items:
+       - item: example6.html
        
 
     
