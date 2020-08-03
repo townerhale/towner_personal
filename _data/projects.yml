@@ -18,6 +18,6 @@ projects:
       - item: example5.html
         image: /images/pic_5.png
       - item: example6.html
-        image: /images/title_screen.jpg
+        image: /images/mytitle.png
 
     
