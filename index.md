@@ -45,5 +45,5 @@ cta_button_label: contact # the label on the button
 
 ### **Software engineering** has always been something that I've passionate about - from creating websites to studying and implementing machine learning. 
   
-**Who am I?** Just a recent graduate from the University of Hawaii at Manoa, who was born and raised in Honolulu, Hawaii. I've been developing websites for fun since high school, and if I'm not thinking of something to create, I'm usually out on the court playing basketball or in the water surfing. 
+**Who am I?** Just a recent graduate from the University of Hawaii at Manoa, who was born and raised in Honolulu, Hawaii. I've been developing websites for fun since high school, and if I'm not thinking of something to create, I'm usually out on the court playing basketball or in the water surfing. Currently, I'm studying for my AWS SAA license as well as working on additionaly features for my text-based game. 
   
